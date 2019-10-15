@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="sortirovka4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="153"/>
+        <CursorPos Y="166"/>
+        <FoldState Value=" T6i701-"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="sortirovka4.pas"/>
+        <Caret Line="144" Column="33" TopLine="128"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sortirovka4.pas"/>
+        <Caret Line="145" Column="33" TopLine="128"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sortirovka4.pas"/>
+        <Caret Line="144" Column="30" TopLine="128"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sortirovka4.pas"/>
+        <Caret Line="145" Column="5" TopLine="128"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sortirovka4.pas"/>
+        <Caret Line="144" Column="33" TopLine="128"/>
+      </Position5>
+      <Position6>
+        <Filename Value="sortirovka4.pas"/>
+        <Caret Line="123" Column="7" TopLine="114"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
